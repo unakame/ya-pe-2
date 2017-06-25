@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto'
+}
+
+.owl-stage .owl-item .row h2{
+	text-align: center;
+	color: #212121;
+	font-size: 380%;
+	font-weight: 600;
+	font-
+}
+.owl-dots{
+	padding-top: 5%;
+}
+.owl-stage .owl-item .row p{
+	text-align: center;
+	font-size: 270%;
+	color: #8f8f8f;
+}
+
+#boton{
+    padding: 2rem 15rem 2rem 15rem;
+    font-size: 45px;
+}
+
+.div-text-button{
+	text-align: center;
+}
+
+.carousel-box{
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
